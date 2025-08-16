@@ -17,8 +17,6 @@ Run the `.exe` file to start the application.
 
 ## 📸 Overview
 <img width="1817" height="1095" alt="openshot-main-interface" src="https://github.com/user-attachments/assets/bfc8f357-a038-45ca-bf7a-eb7f166ec848" />
-![openshot-timeline-editing-workspace](https://github.com/user-attachments/assets/f3206663-0570-444b-9a49-7687c0ce07cd)
-
 
 ## 🎯 Key Features
 ⚡ **Unlimited Tracks** – Layer videos, images, audio, and effects with no limits.  
